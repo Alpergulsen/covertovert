@@ -5,9 +5,9 @@
 
 Basic ICMP Documentation
 ========================
-
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+This is the documentation for the Basic ICMP project. The project is a simple implementation of the Internet Control Message Protocol (ICMP) in Python. This project is developed as a part of the Computer Networks(Ceng 435) course at Middle East Technical University by students Alper Gülşen and Mehmet Tekin.
+Alper Gülşen - 2380467
+Mehmet Tekin - 2167328
 
 .. toctree::
    :maxdepth: 2
